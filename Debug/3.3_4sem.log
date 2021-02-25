@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Вадим\source\repos\3.3_4sem\3.3_4sem\main.cpp(60,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вадим\source\repos\3.3_4sem\3.3_4sem\main.cpp(76,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вадим\source\repos\3.3_4sem\3.3_4sem\main.cpp(83,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вадим\source\repos\3.3_4sem\3.3_4sem\main.cpp(94,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вадим\source\repos\3.3_4sem\3.3_4sem\main.cpp(91,17): warning C4101: i: неиспользованная локальная переменная
+  3.3_4sem.vcxproj -> C:\Users\Вадим\source\repos\3.3_4sem\Debug\3.3_4sem.exe
