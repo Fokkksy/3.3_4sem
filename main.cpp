@@ -91,7 +91,7 @@ int main()
     std::size_t i;
     std::size_t num_of_collisions;
 
-    for (auto N = 10; N < std::size(hash_code); N += 100)
+    for (auto N = 10; N < std::size(hash_code); N += 10)
     {
         for (auto i = 0; i < N; ++i)
         {
